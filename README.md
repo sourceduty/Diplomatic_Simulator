@@ -11,6 +11,8 @@ By offering nuanced responses and encouraging users to engage in step-by-step de
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Citizen Simulator](https://github.com/sourceduty/Citizen_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
